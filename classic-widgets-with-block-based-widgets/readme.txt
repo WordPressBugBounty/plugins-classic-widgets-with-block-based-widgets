@@ -2,7 +2,7 @@
 Contributors: 5um17
 Tags: classic widgets, gutenberg widgets, disable gutenberg, block-based-widgets
 Requires at least: 5.8
-Tested up to: 6.7.1
+Tested up to: 6.8
 Requires PHP: 7.0
 Stable tag: 1.0.1
 License: GPLv3
